@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Koda Adam 👋
 
-<!--
-**Adamkoda2306/Adamkoda2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE student at IIIT Sri City  
+💻 Backend Developer | Embedded Systems | Tech Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build **scalable backend systems** using Node.js & TypeScript
+- Design **microservices architectures** and deploy on cloud using Docker
+- Work with **embedded systems, IoT sensors, and real-time data**
+- Develop **ML & Computer Vision pipelines** for real-world applications
+
+---
+
+## 🛠 Tech Stack
+**Languages:** C, C++, Python, Java, TypeScript, JavaScript  
+**Backend & APIs:** Node.js, Express.js, Flask, REST APIs, Firebase  
+**Databases & Cloud:** MongoDB, Docker, GitHub Actions, Render, Vercel, GCP  
+**Embedded & AI:** Jetson Nano, Arduino, OpenCV, YOLOv8, CNN, Random Forest  
+
+---
+
+## 📌 Featured Projects
+🔹 **logsave-hub** – Node.js logging utility (npm package)  
+➡️ https://www.npmjs.com/package/logsave-hub  
+
+🔹 **AgriVision** – AI-powered agriculture assistant (Finalist)  
+➡️ CNN-based plant disease detection  
+
+🔹 **IoT Water Management** – Real-time monitoring system (Runner-up)  
+➡️ ESP32 + Flutter + Web dashboard  
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Adamkoda2306
+- LinkedIn: https://www.linkedin.com/in/adam-koda-5a8160294/
+- Email: adam.koda2995@gmail.com
+
+⭐ Always learning. Always building.
