@@ -14,8 +14,8 @@
 ---
 
 ## 🛠 Tech Stack
-**Languages:** C, C++, Python, Java, TypeScript, JavaScript  
-**Backend & APIs:** Node.js, Express.js, Flask, REST APIs, Firebase  
+**Languages:** C, C++, Python, JavaScript  
+**Backend & APIs:** Node.js, Express.js, TypeScript, Flask, REST APIs, Firebase  
 **Databases & Cloud:** MongoDB, Docker, GitHub Actions, Render, Vercel, GCP  
 **Embedded & AI:** Jetson Nano, Arduino, OpenCV, YOLOv8, CNN, Random Forest  
 
