@@ -7,7 +7,7 @@
 
 ## 🚀 What I Do
 - Build **scalable backend systems** using Node.js & TypeScript
-- Design **microservices architectures** and deploy on cloud using Docker
+- Design **microservices architectures** and deploy on the cloud using Docker
 - Work with **embedded systems, IoT sensors, and real-time data**
 - Develop **ML & Computer Vision pipelines** for real-world applications
 
@@ -22,14 +22,14 @@
 ---
 
 ## 📌 Featured Projects
+🔹 **AgriVision** – AI-powered agriculture assistant (Finalist)  
+➡️ CNN-based plant disease detection mobile application 
+
+🔹 **Absentees** – Attendance Tracker for Btech Student 
+➡️ Flutter Application for tracking attendance used by around 30+ students
+
 🔹 **logsave-hub** – Node.js logging utility (npm package)  
 ➡️ https://www.npmjs.com/package/logsave-hub  
-
-🔹 **AgriVision** – AI-powered agriculture assistant (Finalist)  
-➡️ CNN-based plant disease detection  
-
-🔹 **IoT Water Management** – Real-time monitoring system (Runner-up)  
-➡️ ESP32 + Flutter + Web dashboard  
 
 ---
 
