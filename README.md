@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Building+Scalable+Systems;Flutter+%7C+Node.js+%7C+YOLOv8+%7C+Docker" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adam-koda-5a8160294/](https://www.linkedin.com/in/adam-koda-5a8160294/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-koda-5a8160294/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adamkoda2306)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.koda2995@gmail.com)
 
@@ -25,6 +25,7 @@ Currently focused on:
 - Embedded systems with Jetson Nano & Raspberry Pi
 - Flutter-based cross-platform applications
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ---
 
 ## Experience
@@ -105,7 +106,7 @@ Currently focused on:
 ## Featured Projects
 
 ### AgriVision — AI-Powered Agriculture Assistant
-🔗 Repository: [AgriVision](https://github.com/Adamkoda2306)
+🔗 Repository: [AgriVision](https://github.com/sujithvaishnav/AgriVision)
 
 - Developed a multilingual Flutter + Flask prototype during a 48-hour hackathon
 - Integrated real-time weather and crop intelligence systems
@@ -119,7 +120,7 @@ Currently focused on:
 
 ### Absentees — Attendance Tracking Platform
 🔗 Live: https://absentees-web.vercel.app/  
-🔗 Repository: https://github.com/Adamkoda2306
+🔗 Repository: [Absentees](https://github.com/Adamkoda2306/Absentees)
 
 - Full-stack Flutter attendance management platform
 - Used by **30+ students**
@@ -137,6 +138,7 @@ Currently focused on:
 
 ### logsave-hub — Node.js Logging Package
 🔗 npm: https://www.npmjs.com/package/logsave-hub
+🔗 Repository: [Absentees](https://github.com/Adamkoda2306/logsave-hub)
 
 - Published a customizable logging package on npm
 - Achieved **85+ downloads within the first month**
@@ -150,10 +152,6 @@ Currently focused on:
 ## GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adamkoda2306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamkoda2306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamkoda2306&theme=tokyonight&hide_border=true"/>
 
