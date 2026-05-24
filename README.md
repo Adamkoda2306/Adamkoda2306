@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Developer;AI%2FML+Engineer;Computer+Vision+Developer;Building+Scalable+Systems;Flutter+%7C+Node.js+%7C+YOLOv8+%7C+Docker" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-koda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adam-koda-5a8160294/](https://www.linkedin.com/in/adam-koda-5a8160294/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adamkoda2306)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.k23@iiits.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.koda2995@gmail.com)
 
 </div>
 
@@ -145,31 +145,15 @@ Currently focused on:
 
 #### Stack
 `Node.js` `npm`
-
----
-
-### RTQI — Road Quality Intelligence System
-🔗 Repository: https://github.com/Adamkoda2306/RTQI-backend
-
-- AI-assisted road quality assessment pipeline
-- Integrated:
-  - YOLOv8 object detection
-  - ML-based scoring
-  - Real-time backend APIs
-- Designed for Jetson Nano edge-device workflows
-
-#### Stack
-`Node.js` `Python` `YOLOv8` `OpenCV` `MongoDB`
-
 ---
 
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adamkoda2306&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adamkoda2306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamkoda2306&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamkoda2306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamkoda2306&theme=tokyonight&hide_border=true"/>
 
@@ -203,11 +187,11 @@ Currently focused on:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-koda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-koda-5a8160294/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adamkoda2306)
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.k23@iiits.in)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adam.koda2995@gmail.com)
 
 </div>
 
