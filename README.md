@@ -16,6 +16,8 @@
 
 ## About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 Backend-focused software engineer with experience building scalable microservices, AI-powered systems, and real-time applications. Experienced in full-stack development, computer vision pipelines, embedded AI systems, and cloud deployment workflows.
 
 Currently focused on:
@@ -24,8 +26,7 @@ Currently focused on:
 - Computer Vision using YOLOv8 & OpenCV
 - Embedded systems with Jetson Nano & Raspberry Pi
 - Flutter-based cross-platform applications
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  
 ---
 
 ## Experience
