@@ -16,7 +16,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- <img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 
 Backend-focused software engineer with experience building scalable microservices, AI-powered systems, and real-time applications. Experienced in full-stack development, computer vision pipelines, embedded AI systems, and cloud deployment workflows.
 
