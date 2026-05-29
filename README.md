@@ -107,7 +107,7 @@ Currently focused on:
 ## Featured Projects
 
 ### AgriVision — AI-Powered Agriculture Assistant
-🔗 Live: https://agrivision-livid.vercel.app/
+🔗 Live: https://agrivision-livid.vercel.app/  
 🔗 Repository: [AgriVision](https://github.com/Adamkoda2306/AgriVision)
 
 - Developed a multilingual Flutter + Flask prototype during a 48-hour hackathon
