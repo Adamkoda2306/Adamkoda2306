@@ -107,7 +107,8 @@ Currently focused on:
 ## Featured Projects
 
 ### AgriVision — AI-Powered Agriculture Assistant
-🔗 Repository: [AgriVision](https://github.com/sujithvaishnav/AgriVision)
+🔗 Live: https://agrivision-livid.vercel.app/
+🔗 Repository: [AgriVision](https://github.com/Adamkoda2306/AgriVision)
 
 - Developed a multilingual Flutter + Flask prototype during a 48-hour hackathon
 - Integrated real-time weather and crop intelligence systems
@@ -115,7 +116,7 @@ Currently focused on:
 - Designed scalable API architecture for future production deployment
 
 #### Stack
-`Flutter` `Flask` `CNN` `Python` `Firebase`
+`Flutter` `Typescript` `HuggingFace` `CNN` `Python` `Render`
 
 ---
 
