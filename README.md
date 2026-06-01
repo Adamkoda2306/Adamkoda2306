@@ -37,7 +37,7 @@ Currently focused on:
 - Re-engineered a monolithic Node.js backend into a **TypeScript microservices architecture**
 - Reduced average request latency by **90%+**
 - Improved throughput by **3× under identical load conditions**
-- Performed scalability validation using **k6 load testing**
+- Performed scalability validation using **load testing**
 - Worked on production deployment and infrastructure optimization
 
 #### Technologies
