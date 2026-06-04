@@ -106,6 +106,41 @@ Currently focused on:
 
 ## Featured Projects
 
+### Spatio-Visual Abstraction Layers for Smooth Map-Less UAV Navigation
+
+🔗 Repository: [Autonomous UAV Navigation](https://github.com/Adamkoda2306/Autonomous-UAV-Navigation-via-Spatio-Visual-Reinforcement-Learning)
+
+* Designed a unified spatio-visual reinforcement learning framework for autonomous map-less UAV navigation
+* Developed a multi-scale U-Net perception network for obstacle-aware navigation using monocular RGB input
+* Compressed 256×256 visual observations into a compact 28-dimensional navigation state using a 5×5 spatial occupancy abstraction layer
+* Implemented and compared PPO and TRPO reinforcement learning agents for continuous UAV control
+* Enhanced trajectory smoothness through exponential velocity smoothing and jerk regularization
+* Validated the framework in AirSimNH suburban simulation environments with extensive trajectory, reward, and stability analysis
+
+#### Stack
+
+`Python` `PyTorch` `U-Net` `PPO` `TRPO` `Reinforcement Learning` `Computer Vision` `AirSimNH` `OpenCV` `Stable-Baselines3`
+
+---
+
+
+### EEG-Based Alzheimer's Disease Detection on FPGA
+
+🔗 Repository: [EEG Alzheimer's Detection](https://github.com/Adamkoda2306/EEG-Based-Alzheimer-s-Detection-on-Zynq-FPGA-Board)
+
+* Developed an end-to-end FPGA-based machine learning system for Alzheimer's disease detection using EEG signals
+* Processed EEGLAB EEG datasets and extracted statistical and frequency-domain features, including Mean, Variance, Alpha, Beta, and Theta Band Power
+* Trained a Random Forest classifier and converted floating-point model parameters into FPGA-compatible fixed-point representations
+* Manually implemented decision trees in Verilog HDL and designed majority voting logic for hardware-based inference
+* Synthesized and deployed the complete architecture on a Xilinx Zynq Edge FPGA board using Vivado
+* Integrated LEDs, buzzer, switches, and a 16x2 LCD display for real-time prediction and classification visualization
+
+#### Stack
+
+`Python` `Verilog HDL` `Vivado` `Xilinx Zynq FPGA` `Scikit-learn` `Random Forest` `MNE` `NumPy` `SciPy` `EEG Signal Processing`
+
+---
+
 ### AgriVision — AI-Powered Agriculture Assistant
 🔗 Live: https://agrivision-livid.vercel.app/  
 🔗 Repository: [AgriVision](https://github.com/Adamkoda2306/AgriVision)
@@ -116,25 +151,7 @@ Currently focused on:
 - Designed scalable API architecture for future production deployment
 
 #### Stack
-`Flutter` `Typescript` `HuggingFace` `CNN` `Python` `Render`
-
----
-
-### Absentees — Attendance Tracking Platform
-🔗 Live: https://absentees-web.vercel.app/  
-🔗 Repository: [Absentees](https://github.com/Adamkoda2306/Absentees)
-
-- Full-stack Flutter attendance management platform
-- Used by **30+ students**
-- Includes:
-  - Subject-wise analytics
-  - Attendance tracking
-  - Marks memo storage
-  - Academic almanac access
-  - Responsive cross-platform UI
-
-#### Stack
-`Flutter` `Firebase` `Dart`
+`Flutter` `Typescript` `HuggingFace` `CNN` `Python` `Render` `Dart` `Node.js` `Flask` `TensorFlow Lite` `Machine Learning` `REST API` `MongoDB` `Twilio` `JWT Authentication` `HTML` `CSS` `JavaScript`
 
 ---
 
@@ -148,7 +165,7 @@ Currently focused on:
 - Focused on clean developer experience and reusable logging workflows
 
 #### Stack
-`Typescript` `Node.js` `npm`
+`Typescript` `Node.js` `npm` `Winston` `Logging Systems` `Backend Utilities` `File Handling`
 
 ---
 
