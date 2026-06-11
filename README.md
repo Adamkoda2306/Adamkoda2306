@@ -155,17 +155,19 @@ Currently focused on:
 
 ---
 
-### logsave-hub — Node.js Logging Package
-🔗 npm: https://www.npmjs.com/package/logsave-hub/  
-🔗 Repository: [Logsave-hub](https://github.com/Adamkoda2306/logsave-hub)
+### LogSave Hub — Real-Time Logging & Monitoring Platform
 
-- Published a customizable logging package on npm
-- Achieved **85+ downloads within the first month**
-- Reduced setup time by **20% across internal projects**
-- Focused on clean developer experience and reusable logging workflows
+🔗 npm: https://www.npmjs.com/package/logsave-hub/  
+🔗 Repository: [logsave-hub](https://github.com/Adamkoda2306/logsave-hub)
+
+- Published a Node.js logging and monitoring package with structured logging and real-time observability features
+- Built a live web dashboard powered by Socket.IO for log streaming, filtering, search, and historical log analysis
+- Implemented automated log retention, file management, and seamless Express integration for production environments
+- Designed a modular TypeScript architecture focused on scalability, performance, and developer experience
 
 #### Stack
-`Typescript` `Node.js` `npm` `Winston` `Logging Systems` `Backend Utilities` `File Handling`
+
+`TypeScript` `Node.js` `Express.js` `Socket.IO` `Winston` `npm` `WebSockets` `Logging Systems` `Monitoring Dashboard` `File Handling`
 
 ---
 
