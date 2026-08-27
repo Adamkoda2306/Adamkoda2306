@@ -175,7 +175,7 @@ Currently focused on:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-six-theta.vercel.app/?user=Adamkoda2306&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-six-theta.vercel.app/?user=Adamkoda2306&theme=tokyonight&hide_border=true&date_format=j%20M%5B%2C%20Y%5D"/>
 
 </div>
 
